@@ -13,7 +13,8 @@ public class GitRespository {
 		
 		GitRespository.studentname();
 		
-		
+		int b = 123;
+		System.out.println(b);
 		
 		
 		
