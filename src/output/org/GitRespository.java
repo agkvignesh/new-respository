@@ -13,8 +13,13 @@ public class GitRespository {
 		
 		GitRespository.studentname();
 		
+
+		int b = 123;
+		System.out.println(b);
+		
 		String s = "Mani";
 		System.out.println(s);
+
 		
 		
 		
